@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 24/04/2025
 
 ## AIM:
 
@@ -54,9 +54,13 @@
 
 ## Output:
 
+![sona empd ss 2](https://github.com/user-attachments/assets/682c1f3a-6a49-47f9-b18c-51489b0ffc20)
 
-### Name:
-### Register Number: 
+
+![sona empd exno 1](https://github.com/user-attachments/assets/f569cfa9-b3e6-4fde-92b6-9f0cc571f4c3)
+
+### Name: JEYAPRIYA J
+### Register Number: 212224100027
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
